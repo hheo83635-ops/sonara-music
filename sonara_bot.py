@@ -11,7 +11,7 @@ from telegram.constants import ParseMode
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your token from @BotFather
+BOT_TOKEN = "8958517737:AAHIS2bCDpR7-Tq8cv7_KMltdx-MvW0fFes"  # Replace with your token from @BotFather
 
 # ─── Banner photo ─────────────────────────────────────────────────────────────
 # Path to the Sonara Music banner image (place banner.jpg next to this script)
